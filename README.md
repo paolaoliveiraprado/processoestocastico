@@ -1,2 +1,2 @@
 # processoestocastico
-Simulação de uma cadeia com alcance k, onde k=0, 1, 2 ou 3 e o alfabeto A ={0,1}.
+Este trabalho apresenta um estudo de uma simulação de uma cadeia de alcance k com 100 replicações para k=0, k=1, k=2 e k=3, variando o tamanho amostral N em 100, 1.000 e 10.000. Para cada replicação da combinação k e N foi calculado o BIC (1)  para k em 0, 1, 2 e 3 afim de verificar a proporção de acerto do estimador, de superestimação e subestimação para cada combinação de k e N.
